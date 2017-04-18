@@ -1,0 +1,133 @@
+<svg height="2078" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="2078" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">6 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ gulp-html2js@0.4.2 </tspan>
+<tspan x="10" y="90">  ├─┬ gulp-util@2.2.20 </tspan>
+<tspan x="10" y="106">  │ ├─┬ chalk@0.5.1 </tspan>
+<tspan x="10" y="122">  │ │ ├── ansi-styles@1.1.0 </tspan>
+<tspan x="10" y="138">  │ │ ├── escape-string-regexp@1.0.5 </tspan>
+<tspan x="10" y="154">  │ │ ├─┬ has-ansi@0.1.0 </tspan>
+<tspan x="10" y="170">  │ │ │ └── ansi-regex@0.2.1 </tspan>
+<tspan x="10" y="186">  │ │ ├── strip-ansi@0.3.0 </tspan>
+<tspan x="10" y="202">  │ │ └── supports-color@0.2.0 </tspan>
+<tspan x="10" y="218">  │ ├─┬ dateformat@1.0.12 </tspan>
+<tspan x="10" y="234">  │ │ ├── get-stdin@4.0.1 </tspan>
+<tspan x="10" y="250">  │ │ └─┬ meow@3.7.0 </tspan>
+<tspan x="10" y="266">  │ │   ├─┬ camelcase-keys@2.1.0 </tspan>
+<tspan x="10" y="282">  │ │   │ └── camelcase@2.1.1 </tspan>
+<tspan x="10" y="298">  │ │   ├── decamelize@1.2.0 </tspan>
+<tspan x="10" y="314">  │ │   ├─┬ loud-rejection@1.6.0 </tspan>
+<tspan x="10" y="330">  │ │   │ ├─┬ currently-unhandled@0.4.1 </tspan>
+<tspan x="10" y="346">  │ │   │ │ └── array-find-index@1.0.2 </tspan>
+<tspan x="10" y="362">  │ │   │ └── signal-exit@3.0.2 </tspan>
+<tspan x="10" y="378">  │ │   ├── map-obj@1.0.1 </tspan>
+<tspan x="10" y="394">  │ │   ├── minimist@1.2.0 </tspan>
+<tspan x="10" y="410">  │ │   ├─┬ normalize-package-data@2.3.6 </tspan>
+<tspan x="10" y="426">  │ │   │ ├── hosted-git-info@2.4.2 </tspan>
+<tspan x="10" y="442">  │ │   │ ├─┬ is-builtin-module@1.0.0 </tspan>
+<tspan x="10" y="458">  │ │   │ │ └── builtin-modules@1.1.1 </tspan>
+<tspan x="10" y="474">  │ │   │ ├── semver@5.3.0 </tspan>
+<tspan x="10" y="490">  │ │   │ └─┬ validate-npm-package-license@3.0.1 </tspan>
+<tspan x="10" y="506">  │ │   │   ├─┬ spdx-correct@1.0.2 </tspan>
+<tspan x="10" y="522">  │ │   │   │ └── spdx-license-ids@1.2.2 </tspan>
+<tspan x="10" y="538">  │ │   │   └── spdx-expression-parse@1.0.4 </tspan>
+<tspan x="10" y="554">  │ │   ├── object-assign@4.1.1 </tspan>
+<tspan x="10" y="570">  │ │   ├─┬ read-pkg-up@1.0.1 </tspan>
+<tspan x="10" y="586">  │ │   │ ├─┬ find-up@1.1.2 </tspan>
+<tspan x="10" y="602">  │ │   │ │ ├── path-exists@2.1.0 </tspan>
+<tspan x="10" y="618">  │ │   │ │ └─┬ pinkie-promise@2.0.1 </tspan>
+<tspan x="10" y="634">  │ │   │ │   └── pinkie@2.0.4 </tspan>
+<tspan x="10" y="650">  │ │   │ └─┬ read-pkg@1.1.0 </tspan>
+<tspan x="10" y="666">  │ │   │   ├─┬ load-json-file@1.1.0 </tspan>
+<tspan x="10" y="682">  │ │   │   │ ├── graceful-fs@4.1.11 </tspan>
+<tspan x="10" y="698">  │ │   │   │ ├─┬ parse-json@2.2.0 </tspan>
+<tspan x="10" y="714">  │ │   │   │ │ └─┬ error-ex@1.3.1 </tspan>
+<tspan x="10" y="730">  │ │   │   │ │   └── is-arrayish@0.2.1 </tspan>
+<tspan x="10" y="746">  │ │   │   │ ├── pify@2.3.0 </tspan>
+<tspan x="10" y="762">  │ │   │   │ └─┬ strip-bom@2.0.0 </tspan>
+<tspan x="10" y="778">  │ │   │   │   └── is-utf8@0.2.1 </tspan>
+<tspan x="10" y="794">  │ │   │   └── path-type@1.1.0 </tspan>
+<tspan x="10" y="810">  │ │   ├─┬ redent@1.0.0 </tspan>
+<tspan x="10" y="826">  │ │   │ ├─┬ indent-string@2.1.0 </tspan>
+<tspan x="10" y="842">  │ │   │ │ └─┬ repeating@2.0.1 </tspan>
+<tspan x="10" y="858">  │ │   │ │   └─┬ is-finite@1.0.2 </tspan>
+<tspan x="10" y="874">  │ │   │ │     └── number-is-nan@1.0.1 </tspan>
+<tspan x="10" y="890">  │ │   │ └── strip-indent@1.0.1 </tspan>
+<tspan x="10" y="906">  │ │   └── trim-newlines@1.0.0 </tspan>
+<tspan x="10" y="922">  │ ├── lodash._reinterpolate@2.4.1 </tspan>
+<tspan x="10" y="938">  │ ├─┬ lodash.template@2.4.1 </tspan>
+<tspan x="10" y="954">  │ │ ├── lodash._escapestringchar@2.4.1 </tspan>
+<tspan x="10" y="970">  │ │ ├─┬ lodash.defaults@2.4.1 </tspan>
+<tspan x="10" y="986">  │ │ │ └── lodash._objecttypes@2.4.1 </tspan>
+<tspan x="10" y="1002">  │ │ ├─┬ lodash.escape@2.4.1 </tspan>
+<tspan x="10" y="1018">  │ │ │ ├─┬ lodash._escapehtmlchar@2.4.1 </tspan>
+<tspan x="10" y="1034">  │ │ │ │ └── lodash._htmlescapes@2.4.1 </tspan>
+<tspan x="10" y="1050">  │ │ │ └── lodash._reunescapedhtml@2.4.1 </tspan>
+<tspan x="10" y="1066">  │ │ ├─┬ lodash.keys@2.4.1 </tspan>
+<tspan x="10" y="1082">  │ │ │ ├── lodash._isnative@2.4.1 </tspan>
+<tspan x="10" y="1098">  │ │ │ ├── lodash._shimkeys@2.4.1 </tspan>
+<tspan x="10" y="1114">  │ │ │ └── lodash.isobject@2.4.1 </tspan>
+<tspan x="10" y="1130">  │ │ ├── lodash.templatesettings@2.4.1 </tspan>
+<tspan x="10" y="1146">  │ │ └── lodash.values@2.4.1 </tspan>
+<tspan x="10" y="1162">  │ ├── minimist@0.2.0 </tspan>
+<tspan x="10" y="1178">  │ ├─┬ multipipe@0.1.2 </tspan>
+<tspan x="10" y="1194">  │ │ └─┬ duplexer2@0.0.2 </tspan>
+<tspan x="10" y="1210">  │ │   └── readable-stream@1.1.14 </tspan>
+<tspan x="10" y="1226">  │ ├─┬ through2@0.5.1 </tspan>
+<tspan x="10" y="1242">  │ │ ├─┬ readable-stream@1.0.34 </tspan>
+<tspan x="10" y="1258">  │ │ │ ├── isarray@0.0.1 </tspan>
+<tspan x="10" y="1274">  │ │ │ └── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="1290">  │ │ └── xtend@3.0.0 </tspan>
+<tspan x="10" y="1306">  │ └─┬ vinyl@0.2.3 </tspan>
+<tspan x="10" y="1322">  │   └── clone-stats@0.0.1 </tspan>
+<tspan x="10" y="1338">  ├─┬ html-minifier@0.6.9 </tspan>
+<tspan x="10" y="1354">  │ ├─┬ change-case@2.1.6 </tspan>
+<tspan x="10" y="1370">  │ │ ├── camel-case@1.2.2 </tspan>
+<tspan x="10" y="1386">  │ │ ├── constant-case@1.1.2 </tspan>
+<tspan x="10" y="1402">  │ │ ├── dot-case@1.1.2 </tspan>
+<tspan x="10" y="1418">  │ │ ├── is-lower-case@1.1.3 </tspan>
+<tspan x="10" y="1434">  │ │ ├── is-upper-case@1.1.2 </tspan>
+<tspan x="10" y="1450">  │ │ ├── lower-case@1.1.4 </tspan>
+<tspan x="10" y="1466">  │ │ ├── param-case@1.1.2 </tspan>
+<tspan x="10" y="1482">  │ │ ├── pascal-case@1.1.2 </tspan>
+<tspan x="10" y="1498">  │ │ ├── path-case@1.1.2 </tspan>
+<tspan x="10" y="1514">  │ │ ├── sentence-case@1.1.3 </tspan>
+<tspan x="10" y="1530">  │ │ ├── snake-case@1.1.2 </tspan>
+<tspan x="10" y="1546">  │ │ ├── swap-case@1.1.2 </tspan>
+<tspan x="10" y="1562">  │ │ ├── title-case@1.1.2 </tspan>
+<tspan x="10" y="1578">  │ │ ├── upper-case@1.1.3 </tspan>
+<tspan x="10" y="1594">  │ │ └── upper-case-first@1.1.2 </tspan>
+<tspan x="10" y="1610">  │ ├─┬ clean-css@2.2.23 </tspan>
+<tspan x="10" y="1626">  │ │ └── commander@2.2.0 </tspan>
+<tspan x="10" y="1642">  │ ├─┬ cli@0.6.6 </tspan>
+<tspan x="10" y="1658">  │ │ ├── exit@0.1.2 </tspan>
+<tspan x="10" y="1674">  │ │ └─┬ glob@3.2.11 </tspan>
+<tspan x="10" y="1690">  │ │   └─┬ minimatch@0.3.0 </tspan>
+<tspan x="10" y="1706">  │ │     ├── lru-cache@2.7.3 </tspan>
+<tspan x="10" y="1722">  │ │     └── sigmund@1.0.1 </tspan>
+<tspan x="10" y="1738">  │ ├── relateurl@0.2.7 </tspan>
+<tspan x="10" y="1754">  │ └─┬ uglify-js@2.4.24 </tspan>
+<tspan x="10" y="1770">  │   ├── async@0.2.10 </tspan>
+<tspan x="10" y="1786">  │   ├─┬ source-map@0.1.34 </tspan>
+<tspan x="10" y="1802">  │   │ └── amdefine@1.0.1 </tspan>
+<tspan x="10" y="1818">  │   ├── uglify-to-browserify@1.0.2 </tspan>
+<tspan x="10" y="1834">  │   └─┬ yargs@3.5.4 </tspan>
+<tspan x="10" y="1850">  │     ├── camelcase@1.2.1 </tspan>
+<tspan x="10" y="1866">  │     ├── window-size@0.1.0 </tspan>
+<tspan x="10" y="1882">  │     └── wordwrap@0.0.2 </tspan>
+<tspan x="10" y="1898">  ├── map-stream@0.1.0 </tspan>
+<tspan x="10" y="1914">  └─┬ through2@2.0.3 </tspan>
+<tspan x="10" y="1930">    ├─┬ readable-stream@2.2.9 </tspan>
+<tspan x="10" y="1946">    │ ├── buffer-shims@1.0.0 </tspan>
+<tspan x="10" y="1962">    │ ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="1978">    │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="1994">    │ ├── isarray@1.0.0 </tspan>
+<tspan x="10" y="2010">    │ ├── process-nextick-args@1.0.7 </tspan>
+<tspan x="10" y="2026">    │ ├── string_decoder@1.0.0 </tspan>
+<tspan x="10" y="2042">    │ └── util-deprecate@1.0.2 </tspan>
+<tspan x="10" y="2058">    └── xtend@4.0.1</tspan>
+</text>
+</svg>
