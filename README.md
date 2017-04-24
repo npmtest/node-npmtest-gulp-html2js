@@ -1,6 +1,7 @@
 # npmtest-gulp-html2js
 
-test coverage for  [gulp-html2js (v0.4.2)](https://github.com/fraserxu/gulp-html2js#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-html2js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-html2js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-html2js.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-html2js)
+#### basic test coverage for  [gulp-html2js (v0.4.2)](https://github.com/fraserxu/gulp-html2js#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-html2js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-html2js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-html2js.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-html2js)
+
 #### Gulp plugin for converting AngularJS templates to JavaScript
 
 [![NPM](https://nodei.co/npm/gulp-html2js.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-html2js)
@@ -9,7 +10,7 @@ test coverage for  [gulp-html2js (v0.4.2)](https://github.com/fraserxu/gulp-html
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-html2js/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-html2js/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gulp-html2js/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-html2js/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-html2js/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-html2js/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-gulp-html2js/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-gulp-html2js/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-html2js/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-html2js/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-gulp-html2js/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gulp-html2js/build/coverage.html/index.html)
 
@@ -75,7 +76,8 @@ test coverage for  [gulp-html2js (v0.4.2)](https://github.com/fraserxu/gulp-html
         "url": "git://github.com/fraserxu/gulp-html2js.git"
     },
     "scripts": {},
-    "version": "0.4.2"
+    "version": "0.4.2",
+    "bin": {}
 }
 ```
 
